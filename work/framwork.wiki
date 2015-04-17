@@ -1,0 +1,5 @@
+	= pocketsphinx =
+pocketsphinx是一个语音识别库，开源，项目的网址为http://cmusphinx.sourceforge.net;
+
+android demo 网址：[https://github.com/ujfj1986/pocketsphinx-android-demo 这里]
+

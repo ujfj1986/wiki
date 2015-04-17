@@ -1,0 +1,6 @@
+ = python =
+python语言是一种动态解释的脚本语言。
+
+python 主要类型有[[python字符串]], [[python 列表]], [[python 元组]], [[python 字典]].
+
+python web开发库有[[django]].

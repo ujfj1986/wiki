@@ -1,0 +1,6 @@
+	= Android =
+
+记录Android开发中遇到的问题与解决办法。
+
+# [[pocketsphinx]]
+# [[framwork]]

@@ -1,0 +1,29 @@
+	= pocketsphinx =
+pocketsphinx 是一个开源的语音识别项目，项目的主页是：[http://http://cmusphinx.sourceforge.net/ 这里]
+
+它的android demo源代码在：[https://github.com/ujfj1986/pocketsphinx-android-demo 这里]
+
+# 几个重要网址：
+	- 某yin的空间
+		http://www.cnblogs.com/yin52133/archive/2012/06/21/2557219.html - （一）基本运行测试
+
+		http://www.cnblogs.com/yin52133/archive/2012/07/12/2587282.html - （二）自然语言处理原理研究
+
+		http://www.cnblogs.com/yin52133/archive/2012/07/12/2587419.html - （三）小范围语音英文识别
+
+		http://www.cnblogs.com/yin52133/archive/2012/07/12/2588201.html - （四）小范围语音中文识别
+
+		http://www.cnblogs.com/yin52133/archive/2012/06/22/2558806.html - （五）错误调试
+
+		http://www.cnblogs.com/yin52133/archive/2012/07/12/2588418.html - （六）我的目标和几个想像的方案（闲置中）
+	- sphinx 武林秘籍（上）
+		http://www.cnblogs.com/huanghuang/archive/2011/07/14/2106579.html
+
+	- Android平台使用PocketSphinx做离线语音识别，小范围语音99%识别率
+		http://zuoshu.iteye.com/blog/1463867
+
+	- Android demo wiki
+		http://cmusphinx.sourceforge.net/wiki/tutorialandroid
+
+# 自己的理解
+	
